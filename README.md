@@ -1,4 +1,4 @@
-<div textalign="center">
+<div align="center">
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1112luke&theme=cobalt2&card_width=120&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <!--
