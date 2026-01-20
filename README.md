@@ -1,5 +1,3 @@
-## Hi there 👋
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1112luke)](https://github.com/1112luke/github-readme-stats)
 
 <!--
