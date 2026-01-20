@@ -1,8 +1,8 @@
-<p align="center">
+<div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=1112luke&show_icons=true&theme=cobalt2" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1112luke&theme=cobalt2&layout=pie" width="400" />
   </a>
-</p>
+</div>
 <!--
 **1112luke/1112luke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
